@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning blockchain and ML, security
 - 💞️ I’m looking to collaborate on Web3 development
 - 📫 How to reach me .
-
 * alfierimorillo@protonmail.com
 
 * alfierimorillo@gmail.com
