@@ -10,6 +10,7 @@ in my profile you have my blog, and social networks
 - ⚡ Fun fact: technology and learning addict
 - 🤡 Fun fact: 0x4171341 the profile I had before but I lost this account
 https://github.com/0x4171341/ now I will have this one
+- **Gitlab** https://gitlab.com/0x4171341
 - ☣️ Co-founder of @openhackve
 - 💻Hacktivist @Ubuntu-ve
 - 💬founder @NixanEcosystemservices 
