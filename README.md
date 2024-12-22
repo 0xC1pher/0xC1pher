@@ -21,6 +21,8 @@
 - ☣️ Co-founder of [@openhackve](https://github.com/openhackve)
 - 💻 Hacktivist at [@Ubuntu-ve](https://github.com/Ubuntu-ve)
 - 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices)
+- 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEs)
+- 💬 Founder of [@NixanEcosystemservices](https://github.com/EmporiumES)
 
 ### 😄 Pronouns:
 - 0x4171341
@@ -31,6 +33,7 @@
 
 ### 🔗 Links:
 - 🌐 [GitHub](https://github.com/0xC1pher)
+- - 🌐 [GitHub](https://github.com/0x4171341)
 - 🌐 [GitLab](https://gitlab.com/0x4171341)
 - 🌐 [Launchpad](https://launchpad.net/~alfierimorillo)
 - 🌐 [PGP Key](https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xE5F005A1889B2023B3A43B20DF6CB5768C239A3D)
