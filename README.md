@@ -23,8 +23,8 @@
 - ☣️ Co-founder of [@openhackve](https://github.com/openhackve)
 - 💻 Hacktivist at [@Ubuntu-ve](https://github.com/Ubuntu-ve)
 - 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices)
-- 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEs)
-- 💬 Founder of [@NixanEcosystemservices](https://github.com/EmporiumES)
+- 💬 Founder of [@NixanEs](https://github.com/NixanEs)
+- 💬 Founder of [@Emporium](https://github.com/EmporiumES)
 
 ### 😄 Pronouns:
 - 0x4171341
