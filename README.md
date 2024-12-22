@@ -27,21 +27,12 @@
 - 💬 Founder of [@Emporium](https://github.com/EmporiumES)
 
 ### 😄 Pronouns:
-- 0x4171341
+- [0x4171341] and [0xC1pher]
 
 ### ⚡ Fun facts:
 - 🤖 Technology and learning addict
 - 🤡 0x4171341 was my previous profile, but I lost that account. Now I have this one!
 
-### 🔗 Links:
-- 🐙 [GitHub](https://github.com/0xC1pher)
-- 🐙 [GitHub](https://github.com/0x4171341)
-- 🦊 [GitLab](https://gitlab.com/0x4171341)
-- 🚀 [Launchpad](https://launchpad.net/~alfierimorillo)
-- 🔑 [PGP Key](https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xE5F005A1889B2023B3A43B20DF6CB5768C239A3D)
-- 🐧 [Ubuntu Member](https://launchpad.net/~ubuntumembers)
-- 🐍 [Python Member](https://launchpad.net/~python)
-- 🐚 [Bash Shell Member](https://launchpad.net/~bash-shell)
 
 ---
 
