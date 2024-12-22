@@ -27,7 +27,8 @@
 - 💬 Founder of [@Emporium](https://github.com/EmporiumES)
 
 ### 😄 Pronouns:
-- [0x4171341] and [0xC1pher]
+- 0x4171341 ⚡
+- 0xC1pher  ⚡
 
 ### ⚡ Fun facts:
 - 🤖 Technology and learning addict
