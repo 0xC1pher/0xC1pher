@@ -3,7 +3,14 @@
 - 👀 I’m interested in learning every day, very curious
 - 🌱 I’m currently learning blockchain, ML, and security
 - 💞️ I’m looking to collaborate on Web3 development
-- 📫 How to reach me:
+### 😄 Pronouns:
+- 0x4171341 ⚡
+- 0xC1pher  ⚡
+
+### ⚡ Fun facts:
+- 🤖 Technology and learning addict
+- 🤡 0x4171341 was my previous profile, but I lost that account. Now I have this one!
+- 📫 How to contact me:
   - 📧 [alfierimorillo@protonmail.com](mailto:alfierimorillo@protonmail.com)
   - 📧 [alfierimorillo@gmail.com](mailto:alfierimorillo@gmail.com)
   - 📧 [session](05c1776a69e1f9b5991cd2b0752d46f95587d694150da4a42d319f0027185d9445)
@@ -25,16 +32,6 @@
 - 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices)
 - 💬 Founder of [@NixanEs](https://github.com/NixanEs)
 - 💬 Founder of [@Emporium](https://github.com/EmporiumES)
-
-### 😄 Pronouns:
-- 0x4171341 ⚡
-- 0xC1pher  ⚡
-
-### ⚡ Fun facts:
-- 🤖 Technology and learning addict
-- 🤡 0x4171341 was my previous profile, but I lost that account. Now I have this one!
-
-
 ---
 
 <!---
