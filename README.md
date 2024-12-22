@@ -6,6 +6,8 @@
 - 📫 How to reach me:
   - 📧 [alfierimorillo@protonmail.com](mailto:alfierimorillo@protonmail.com)
   - 📧 [alfierimorillo@gmail.com](mailto:alfierimorillo@gmail.com)
+  - 📧 [session](05c1776a69e1f9b5991cd2b0752d46f95587d694150da4a42d319f0027185d9445)
+  - 📧 [Telegram](Ox4171341)
 
 ### 🌐 Socials:
 - 🌐 [Blog](https://github.com/0xC1pher)
