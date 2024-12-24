@@ -1,5 +1,7 @@
-### 👋 Hi, I’m @0xC1pher
-
+### 👋 Hi, I’m 
+- 0x4171341
+- 0xC1pher
+  
 - 👀 I’m interested in learning every day, very curious
 - 🌱 I’m currently learning blockchain, ML, and security
 - 💞️ I’m looking to collaborate on Web3 development
@@ -14,13 +16,13 @@
 - 🤡 0x4171341 was my previous profile, but I lost that account. Now I have this one!
 
 ### 🌟 Ubuntu Contributions:
-- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) Member of [ubuconla](https://launchpad.net/~ubuconla)
+- 🐧 Member of [ubuconla](https://launchpad.net/~ubuconla)
 - 🎤 Speaker at national events, delivering talks on Ubuntu and open-source technologies.
 
 ### 🌐 Ubuntu Wiki:
-- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (Español)](https://wiki.ubuntu.com/Alfieri%20Morillo)
-- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)
- 
+- 🐧 [Alfieri Morillo (Español)](https://wiki.ubuntu.com/Alfieri%20Morillo)
+- 🐧 [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)
+
 ### 🌐 Socials:
 - 🌐 [Blog](https://github.com/0xC1pher)
 - 🐙 [GitHub](https://github.com/0xC1pher)
@@ -37,8 +39,3 @@
 - 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices)
 - 💬 Founder of [@NixanEs](https://github.com/NixanEs)
 - 💬 Founder of [@Emporium](https://github.com/EmporiumES)
-
-
-### 😄 Pronouns:
-- 0x4171341
-- 0xC1pher
