@@ -17,6 +17,10 @@
 - ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) Member of [ubuconla](https://launchpad.net/~ubuconla)
 - 🎤 Speaker at national events, delivering talks on Ubuntu and open-source technologies.
 
+### 🌐 Ubuntu Wiki:
+- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (Español)](https://wiki.ubuntu.com/Alfieri%20Morillo)
+- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)
+ 
 ### 🌐 Socials:
 - 🌐 [Blog](https://github.com/0xC1pher)
 - 🐙 [GitHub](https://github.com/0xC1pher)
@@ -26,10 +30,6 @@
 - 🐧 [Ubuntu Member](https://launchpad.net/~ubuntumembers)
 - 🐍 [Python Member](https://launchpad.net/~python)
 - 🐚 [Bash Shell Member](https://launchpad.net/~bash-shell)
-
-### 🌐 Ubuntu Wiki:
-- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (Español)](https://wiki.ubuntu.com/Alfieri%20Morillo)
-- ![Ubuntu Logo](https://assets.ubuntu.com/v1/ubuntu-logo32.png) [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)
 
 ### 🚀 Projects:
 - ☣️ Co-founder of [@openhackve](https://github.com/openhackve)
