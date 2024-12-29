@@ -33,6 +33,7 @@
   
 ### 🌐 Socials:
 - ![WordPress, https://cyberthrone.wordpress.com](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white)
+- [![Linked In Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfierimorillo/)
 
 - ![Blog](https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=blogger&logoColor=white)
 - 🌐 [Blog](https://github.com/0xC1pher)
@@ -48,6 +49,7 @@
 - 🐧 [Ubuntu Member](https://launchpad.net/~ubuntumembers)
 - ![Python Member](https://img.shields.io/badge/Python%20Member-3776AB?style=for-the-badge&logo=python&logoColor=white)
 - 🐍 [Python Member](https://launchpad.net/~python)
+- ![Bash Shell Member](https://img.shields.io/badge/Bash%20Shell%20Member-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 - 🐚 [Bash Shell Member](https://launchpad.net/~bash-shell)
 
 **Languages**    
@@ -67,12 +69,6 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDb](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
-
-- 📫 How to reach me ...
-
-**Find me elsewhere**  
-[![Linked In Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alfierimorillo/)
-
 
 ### 🚀 Projects:
 - ☣️ Co-founder of [@openhackve](https://github.com/openhackve)
