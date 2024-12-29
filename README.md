@@ -6,13 +6,13 @@
 - 🌱 I’m currently learning blockchain, ML, and security
 - 💞️ I’m looking to collaborate on Web3 development
 - 📫 How to reach me:
-![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
+- ![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
   - 📧 [alfierimorillo@protonmail.com](mailto:alfierimorillo@protonmail.com)
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+- ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
   - 📧 [alfierimorillo@gmail.com](mailto:alfierimorillo@gmail.com)
-![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=session&logoColor=white)
+- ![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=session&logoColor=white)
   - 📧 [session](05c1776a69e1f9b5991cd2b0752d46f95587d694150da4a42d319f0027185d9445)
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+- ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
   - 📧 [Telegram](https://t.me/Ox4171341)
 
 ### ⚡ Fun facts:
