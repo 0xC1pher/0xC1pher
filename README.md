@@ -19,10 +19,14 @@
 - 🐧 Member of [ubuconla](https://launchpad.net/~ubuconla)
 - 🎤 Speaker at national events, delivering talks on Ubuntu and open-source technologies.
 
+##Hard User 
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)
+
 ### 🌐 Ubuntu Wiki:
 - 🐧 [Alfieri Morillo (Español)](https://wiki.ubuntu.com/Alfieri%20Morillo)
 - 🐧 [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)
-
+  
 ### 🌐 Socials:
 - 🌐 [Blog](https://github.com/0xC1pher)
 - 🐙 [GitHub](https://github.com/0xC1pher)
@@ -38,7 +42,9 @@
 ![TypeScript Tag](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python Tag](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)
 ![HTML5 Tag](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3 Tag](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)    
+![CSS3 Tag](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![Php](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
+
 
 **Frameworks, libraries, databases, etc.**    
 ![React Tag](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
@@ -47,6 +53,7 @@
 ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white) 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![MongoDb](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white).
+![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 
 - 📫 How to reach me ...
 
