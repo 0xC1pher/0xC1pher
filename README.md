@@ -32,8 +32,8 @@ Puedes contactarme a través de:
 ---
 
 ### 💻 **Sistemas Operativos**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)  
+(https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
+(https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)  
 
 ---
 
@@ -83,7 +83,7 @@ Puedes contactarme a través de:
 
 ---
 
-### 🏅 **Miembrosías**  
+### 🏅 **Membresías Oficiales**  
 - ![Ubuntu Member](https://img.shields.io/badge/Ubuntu%20Member-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [Ubuntu Member](https://launchpad.net/~ubuntumembers)  
 - ![Python Member](https://img.shields.io/badge/Python%20Member-3776AB?style=for-the-badge&logo=python&logoColor=white) [Python Member](https://launchpad.net/~python)  
 - ![Bash Shell Member](https://img.shields.io/badge/Bash%20Shell%20Member-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) [Bash Shell Member](https://launchpad.net/~bash-shell)  
