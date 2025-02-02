@@ -1,17 +1,19 @@
-### 👋 Hi, I’m **0x4171341** / **0xC1pher**  
-I’m passionate about technology, continuous learning, and developing innovative solutions.  
+### Hi, Hello, earthlings. I’m **0x4171341** / **0xC1pher**  
+I’m passionate about technology, continuous learning, and developing innovative solutions.
 
 ---
 
 ### 🌱 **Interests and Learning**  
-- 👀 **Interests**: Constant learning, curiosity about technology.  
-- 🌱 **Currently**: Learning about **blockchain**, **machine learning (ML)**, and **cybersecurity**.  
-- 💞️ **Collaboration**: Looking to collaborate on **Web3 development** projects.  
+- **Interests**: Constant learning, curiosity about technology.  
+- **Currently**: Learning about **blockchain**, **machine learning (ML)**, and **cybersecurity**.  
+- **Collaboration**: Looking to collaborate on **Web3 development** projects.
 
 ---
-
+### 🌐 **Ubuntu Wiki**  
+- 🐧 [Alfieri Morillo (Spanish)](https://wiki.ubuntu.com/Alfieri%20Morillo)  
+- 🐧 [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)  
+---
 ### 📫 **Contact**  
-You can reach me at:  
 - ![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) [alfierimorillo@protonmail.com](mailto:alfierimorillo@protonmail.com)  
 - ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [alfierimorillo@gmail.com](mailto:alfierimorillo@gmail.com)  
 - ![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=session&logoColor=white) [session](05c1776a69e1f9b5991cd2b0752d46f95587d694150da4a42d319f0027185d9445)  
@@ -19,15 +21,22 @@ You can reach me at:
 
 ---
 
+### 🏅 **Memberships**  
+- ![Ubuntu Member](https://img.shields.io/badge/Ubuntu%20Member-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [Ubuntu Member](https://launchpad.net/~ubuntumembers)  
+- ![Python Member](https://img.shields.io/badge/Python%20Member-3776AB?style=for-the-badge&logo=python&logoColor=white) [Python Member](https://launchpad.net/~python)  
+- ![Bash Shell Member](https://img.shields.io/badge/Bash%20Shell%20Member-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) [Bash Shell Member](https://launchpad.net/~bash-shell)  
+
+---
+
 ### ⚡ **Fun Facts**  
 - 🤖 Technology and learning addict.  
-- 🤡 **0x4171341** was my previous profile, but I lost that account. Now I use this one!  
+- 🤡 **0x4171341** was my previous profile, but I lost that account. Now I use this one!
 
 ---
 
 ### 🌟 **Ubuntu Contributions**  
 - 🐧 Member of [ubuconla](https://launchpad.net/~ubuconla).  
-- 🎤 Speaker at national events, delivering talks on **Ubuntu** and **open-source technologies**.  
+- 🎤 Speaker at national events, delivering talks on **Ubuntu** and **open-source technologies**.
 
 ---
 
@@ -56,6 +65,8 @@ You can reach me at:
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
 
 #### **Frameworks, Libraries, and Databases**  
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
@@ -72,22 +83,4 @@ You can reach me at:
 - ☣️ Co-founder of [@openhackve](https://github.com/openhackve).  
 - 💻 Hacktivist at [@Ubuntu-ve](https://github.com/Ubuntu-ve).  
 - 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices).  
-- 💬 Founder of [@NixanEs](https://github.com/NixanEs).  
-- 💬 Founder of [@Emporium](https://github.com/EmporiumES).  
-
----
-
-### 🌐 **Ubuntu Wiki**  
-- 🐧 [Alfieri Morillo (Spanish)](https://wiki.ubuntu.com/Alfieri%20Morillo)  
-- 🐧 [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)  
-
----
-
-### 🏅 **Memberships**  
-- ![Ubuntu Member](https://img.shields.io/badge/Ubuntu%20Member-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [Ubuntu Member](https://launchpad.net/~ubuntumembers)  
-- ![Python Member](https://img.shields.io/badge/Python%20Member-3776AB?style=for-the-badge&logo=python&logoColor=white) [Python Member](https://launchpad.net/~python)  
-- ![Bash Shell Member](https://img.shields.io/badge/Bash%20Shell%20Member-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) [Bash Shell Member](https://launchpad.net/~bash-shell)  
-
----
-
 Thank you for visiting my profile! 😊  
