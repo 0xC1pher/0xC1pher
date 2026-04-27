@@ -1,6 +1,18 @@
 ### 👋 Hello, earthlings. I’m **0xC1pher** (formerly **0x4171341**)
 
-**Senior Backend Developer | Technical Founder** 14 years of experience building scalable ecosystems. Currently focused on **Yari-Medic** (HealthTech) and **VenPos** (FinTech).
+**Senior Backend Developer | Technical Founder** 14 years of experience building scalable ecosystems. Currently leading the development of specialized solutions for HealthTech and FinTech.
+
+---
+
+### 🌐 **Live Deployments**
+<p align="left">
+  <a href="https://yarimedic.io" target="_blank">
+    <img src="https://img.shields.io/badge/Yari--Medic-Website-003366?style=for-the-badge&logo=google-cloud&logoColor=white" alt="Yari Medic" />
+  </a>
+  <a href="https://venpos-dev.up.railway.app" target="_blank">
+    <img src="https://img.shields.io/badge/VenPos-Dev_Instance-003366?style=for-the-badge&logo=railway&logoColor=white" alt="VenPos Dev" />
+  </a>
+</p>
 
 ---
 
@@ -10,21 +22,16 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=10" alt="Top Languages" width="48%" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xC1pher&theme=transparent&currStreakNum=003366&sideLabels=003366&sideNums=003366&dates=24292e&ring=003366&fire=003366&stroke=e1e4e8" alt="GitHub Streak" width="97%" />
-</p>
-
 ---
 
 ### 📁 **Project Ecosystem**
-| **Category** | **Projects** | **Key Technologies** |
-| :--- | :---: | :--- |
-| 🏥 **HealthTech** | 4 | Python, Django, EMR Systems |
-| 💳 **POS & E-commerce** | 7 | React, TypeScript, QR Payments |
-| 🤖 **AI & Machine Learning** | 10+ | NLP, YOLO, Audio Analysis |
-| ⛓️ **Blockchain & Web3** | 7 | Solidity, DeFi, Smart Contracts |
-| 🛡️ **Security & Intelligence** | 13+ | Cybersecurity Tools, PGP, Audit |
-| 🛠️ **DevOps & Utilities** | 18+ | Docker, Elixir, Go, Rust, Arch Linux |
+| **Category** | **Key Project** | **Stack Principal** |
+| :--- | :--- | :--- |
+| 🏥 **HealthTech** | [**Yari-Medic**](https://yarimedic.io) | Python, Django, EMR Systems |
+| 💳 **POS & E-commerce** | [**VenPos**](https://venpos-dev.up.railway.app) | React, TypeScript, QR Payments |
+| 🤖 **AI & ML** | **Chatbot-GIA** | NLP, YOLO, Audio Analysis |
+| ⛓️ **Blockchain** | **CryptoVaca** | Solidity, DeFi, Smart Contracts |
+| 🛡️ **Security** | **CyberThrone** | Cybersecurity Tools, PGP, Audit |
 
 ---
 
@@ -38,22 +45,16 @@
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 
-#### **Frontend & UI**
+#### **Frontend & Ops**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
----
-
-### 🌟 **Featured Repositories**
-- 🔥 **[whatsapp-api](https://github.com/0xC1pher/whatsapp-api)**: 36 stars | 11 forks - Robust integration for messaging.
-- 🎧 **[audio_libros](https://github.com/0xC1pher/audio_libros)**: 5 stars - Specialized audio management.
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
 ---
 
 ### 📈 **Detailed Activity Report**
-Para un análisis profundo de mis **113 PRs**, **31 Issues** y el timeline completo de desarrollo desde 2025:
+Análisis profundo de mis **113 PRs**, **31 Issues** y timeline de desarrollo:
 
 👉 **[CONSULTAR GITHUB_STATISTICS_0xC1pher.md](https://github.com/0xC1pher/0xC1pher/blob/main/GITHUB_STATISTICS_0xC1pher.md)**
 
