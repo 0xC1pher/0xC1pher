@@ -1,94 +1,74 @@
-### 👋 Hi, Hello, earthlings. I’m **0x4171341** / **0xC1pher**  
-I’m passionate about technology, continuous learning, and developing innovative solutions.
+### 👋 Hello, earthlings. I’m **0xC1pher** (formerly **0x4171341**)
+
+**Senior Backend Developer | Technical Founder** 14 years of experience building scalable ecosystems. Currently focused on **Yari-Medic** (HealthTech) and **VenPos** (FinTech).
 
 ---
 
-### 🧠 **Interests and Learning**  
-- 🔭 **Interests**: Constant learning, curiosity about technology  
-- 🌱 **Currently Learning**: **blockchain**, **machine learning (ML)**, **cybersecurity**  
-- 💼 ***Backend senior dev***: 14 years experience  
-- 🤝 **Collaboration**: Looking to collaborate on **Web3 development** projects  
+### 📊 **Core Engineering Metrics**
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true&include_all_commits=true" alt="C1pher's Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=10" alt="Top Languages" width="48%" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=0xC1pher&theme=transparent&currStreakNum=003366&sideLabels=003366&sideNums=003366&dates=24292e&ring=003366&fire=003366&stroke=e1e4e8" alt="GitHub Streak" width="97%" />
+</p>
 
 ---
 
-### 🛠️ **Technical Skills**  
+### 📁 **Project Ecosystem**
+| **Category** | **Projects** | **Key Technologies** |
+| :--- | :---: | :--- |
+| 🏥 **HealthTech** | 4 | Python, Django, EMR Systems |
+| 💳 **POS & E-commerce** | 7 | React, TypeScript, QR Payments |
+| 🤖 **AI & Machine Learning** | 10+ | NLP, YOLO, Audio Analysis |
+| ⛓️ **Blockchain & Web3** | 7 | Solidity, DeFi, Smart Contracts |
+| 🛡️ **Security & Intelligence** | 13+ | Cybersecurity Tools, PGP, Audit |
+| 🛠️ **DevOps & Utilities** | 18+ | Docker, Elixir, Go, Rust, Arch Linux |
 
-#### ⌨️ **Programming Languages**  
+---
+
+### 🛠️ **Technical Arsenal**
+
+#### **Backend & Systems**
 ![Elixir](https://img.shields.io/badge/Elixir-4B275F?style=for-the-badge&logo=elixir&logoColor=white)
-![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)  
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)  
-![Python](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=darkgreen)  
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)  
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)  
-![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)  
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)  
-![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white) 
-
-#### 🧰 **Frameworks, Libraries & Databases**  
 ![Phoenix](https://img.shields.io/badge/Phoenix-F15524?style=for-the-badge&logo=phoenixframework&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)  
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)  
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)  
-![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=for-the-badge&logo=graphql&logoColor=white)  
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/mongodb-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
-![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
+![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+
+#### **Frontend & UI**
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Svelte](https://img.shields.io/badge/Svelte-FF3E00?style=for-the-badge&logo=svelte&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ---
 
-### 💻 **Operating Systems**  
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)  
-![Arch Linux](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=white&style=for-the-badge)  
+### 🌟 **Featured Repositories**
+- 🔥 **[whatsapp-api](https://github.com/0xC1pher/whatsapp-api)**: 36 stars | 11 forks - Robust integration for messaging.
+- 🎧 **[audio_libros](https://github.com/0xC1pher/audio_libros)**: 5 stars - Specialized audio management.
 
 ---
 
-### 🌟 **Ubuntu Contributions**  
-- 🎤 Speaker at national events on **Ubuntu** & **open-source**  
-- 🤝 Member of [@Ubuntu-ve](https://github.com/Ubuntu-ve)  
-- 🌎 Member of [ubuconla](https://launchpad.net/~ubuconla)  
+### 📈 **Detailed Activity Report**
+Para un análisis profundo de mis **113 PRs**, **31 Issues** y el timeline completo de desarrollo desde 2025:
+
+👉 **[CONSULTAR GITHUB_STATISTICS_0xC1pher.md](https://github.com/0xC1pher/0xC1pher/blob/main/GITHUB_STATISTICS_0xC1pher.md)**
 
 ---
 
-### 🚀 **Highlighted Projects**  
-- ☣️ Co-founder of [@openhackve](https://github.com/openhackve)  
-- 💬 Founder of [@NixanEcosystemservices](https://github.com/NixanEcosystemservices)  
+### 🔗 **Connect & Verify**
+<p align="left">
+<a href="https://www.linkedin.com/in/alfierimorillo/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:alfierimorillo@protonmail.com"><img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" /></a>
+<a href="https://t.me/Ox4171341"><img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" /></a>
+</p>
+
+> 🔐 **PGP Fingerprint**: `E5F0 05A1 889B 2023 B3A4 3B20 DF6C B576 8C23 9A3D`
 
 ---
-
-### 🏅 **Memberships**  
-![Ubuntu Member](https://img.shields.io/badge/Ubuntu%20Member-E95420?style=for-the-badge&logo=ubuntu&logoColor=white) [Ubuntu Member](https://launchpad.net/~ubuntumembers)  
-![Python Member](https://img.shields.io/badge/Python%20Member-3776AB?style=for-the-badge&logo=python&logoColor=white) [Python Member](https://launchpad.net/~python)  
-![Bash Shell Member](https://img.shields.io/badge/Bash%20Shell%20Member-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white) [Bash Shell Member](https://launchpad.net/~bash-shell)  
-
----
-
-### 📚 **Ubuntu Wiki**  
-- 🇪🇸 [Alfieri Morillo (Spanish)](https://wiki.ubuntu.com/Alfieri%20Morillo)  
-- 🇺🇸 [Alfieri Morillo (English)](https://wiki.ubuntu.com/Alfieri%20Morillo%20En)  
-
----
-
-### 🔗 **Links and Profiles**  
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) [GitHub](https://github.com/0xC1pher)  
-![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white) [GitLab](https://gitlab.com/0x4171341)  
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white) [LinkedIn](https://www.linkedin.com/in/alfierimorillo/)  
-![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) [Blog](https://cyberthrone.wordpress.com)  
-![Launchpad](https://img.shields.io/badge/Launchpad-F4B728?style=for-the-badge&logo=launchpad&logoColor=white) [Launchpad](https://launchpad.net/~alfierimorillo)  
-![PGP Key](https://img.shields.io/badge/PGP%20Key-0077B6?style=for-the-badge&logo=openpgp&logoColor=white) [PGP Key](https://keyserver.ubuntu.com/pks/lookup?fingerprint=on&op=index&search=0xE5F005A1889B2023B3A43B20DF6CB5768C239A3D)  
-
----
-
-### 📬 **Contact**  
-![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white) [alfierimorillo@protonmail.com](mailto:alfierimorillo@protonmail.com)  
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white) [alfierimorillo@gmail.com](mailto:alfierimorillo@gmail.com)  
-![Session](https://img.shields.io/badge/Session-000000?style=for-the-badge&logo=session&logoColor=white) [session](05c1776a69e1f9b5991cd2b0752d46f95587d694150da4a42d319f0027185d9445)  
-![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) [Telegram](https://t.me/Ox4171341)  
-
----
-
-### 😄 **Fun Facts**  
-- 🤖 Technology and learning addict  
-- 🔐 **0x4171341** was my previous profile (lost access), now using **0xC1pher**  
-
-Thank you for visiting my profile! 😊
+<p align="center">
+  <i>"Curiosity is the engine of innovation."</i>
+</p>
