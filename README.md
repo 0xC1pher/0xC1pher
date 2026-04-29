@@ -18,8 +18,8 @@
 
 ### 📊 **Core Engineering Metrics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true&include_all_commits=true" alt="C1pher's Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=10" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true" alt="Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=8" alt="Top Langs" />
 </p>
 
 ---
@@ -44,6 +44,8 @@
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
 
 #### **Frontend & Ops**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
