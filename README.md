@@ -1,6 +1,6 @@
 ### 👋 Hello, earthlings. I’m **0xC1pher** (formerly **0x4171341**)
 
-**Senior Backend Developer | Technical Founder** 14 years of experience building scalable ecosystems. Currently leading the development of specialized solutions for HealthTech and FinTech.
+**Senior Backend Developer | Technical Founder** 16 years of experience building scalable ecosystems. Currently leading the development of specialized solutions for HealthTech and FinTech.
 
 ---
 
