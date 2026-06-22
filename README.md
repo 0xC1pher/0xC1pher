@@ -2,7 +2,6 @@
 
 **Senior Backend Developer | Technical Founder** 16 years of experience building scalable ecosystems. Currently leading the development of specialized solutions for HealthTech and FinTech.
 
----
 
 ### 🌐 **Live Deployments**
 <p align="left">
@@ -11,10 +10,10 @@
   </a>
   <a href="https://venpos-dev.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/VenPos-Dev_Instance-003366?style=for-the-badge&logo=railway&logoColor=white" alt="VenPos Dev" />
-  </a>
 </p>
-
----
+  <a href="skyposve.duckdns.org" target="_blank">
+    <img src="https://img.shields.io/badge/SkyPos-Dev_Instance-003366?style=for-the-badge&logo=coolify&logoColor=white" alt="SkyPos" />
+  </a>
 
 ### 📊 **Core Engineering Metrics**
 <p align="center">
@@ -22,13 +21,12 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=8" alt="Top Langs" />
 </p>
 
----
-
 ### 📁 **Project Ecosystem**
 | **Category** | **Key Project** | **Stack Principal** |
 | :--- | :--- | :--- |
 | 🏥 **HealthTech** | [**Yari-Medic**](https://yarimedic.io) | Python, Django, EMR Systems |
 | 💳 **POS & E-commerce** | [**VenPos**](https://venpos-dev.up.railway.app) | React, TypeScript, QR Payments |
+| 💳 **POS & B2B** | [**SkyPos**](skyposve.duckdns.org) | Flutter, QR, Laravel |
 | 🤖 **AI & ML** | **Chatbot-GIA** | NLP, YOLO, Audio Analysis |
 | ⛓️ **Blockchain** | **CryptoVaca** | Solidity, DeFi, Smart Contracts |
 | 🛡️ **Security** | **CyberThrone** | Cybersecurity Tools, PGP, Audit |
