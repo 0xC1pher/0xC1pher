@@ -24,8 +24,8 @@
 
 ### 📊 **Core Engineering Metrics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true[...]
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_co[...]
+  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=10&count_private=true" alt="Top Languages" />
 </p>
 
 ### 📁 **Project Ecosystem**
@@ -39,6 +39,43 @@
 | 🤖 **AI & ML** | **Chatbot-GIA** | NLP, YOLO, Audio Analysis |
 | ⛓️ **Blockchain** | **CryptoVaca** | Solidity, DeFi, Smart Contracts |
 | 🛡️ **Security** | **CyberThrone** | Cybersecurity Tools, PGP, Audit |
+
+---
+
+### 📈 **Technology Stack Analysis**
+
+#### **📊 Top Technologies by Projects**
+| **Technology** | **# Proyectos** | **Uso Principal** |
+| :--- | :---: | :--- |
+| **React** | 5 | Frontend (VenPos, BryEmma, MerkaFacil, Chat UI, Flows) |
+| **Python** | 8 | Backend, AI/ML, Automation (Yari-Medic, Chatbot-GIA, etc.) |
+| **Node.js/Express** | 4 | Backend APIs (MerkaFacil, Bot WhatsApp, Web Services) |
+| **PostgreSQL** | 6 | Primary Database (BryEmma, MerkaFacil, Yari-Medic, etc.) |
+| **Elixir/Phoenix** | 5 | Scalable Backend (POS System, Restaurant Manager, Payments) |
+| **TypeScript** | 6 | Type-Safe Frontend (VenPos, MerkaFacil, Bot Services) |
+| **Laravel/PHP** | 3 | Backend Services (SkyPos, Web APIs) |
+| **GraphQL** | 3 | API Layer (MerkaFacil, Flows, Chatbot) |
+| **Docker** | 12+ | Infrastructure & Deployment (All Projects) |
+| **Redis** | 3 | Caching & Real-time (MerkaFacil, Chat Services) |
+
+#### **💻 Language Distribution**
+```
+Python       ████████░░ 28% (800+ files, AI/ML/Backend focus)
+JavaScript   ███████░░░ 22% (600+ files, Frontend/Node.js)
+TypeScript   ██████░░░░ 18% (450+ files, Type-safe projects)
+Elixir       █████░░░░░ 15% (350+ files, Scalable systems)
+Solidity     ███░░░░░░░ 8%  (Smart Contracts/Blockchain)
+Other        ██░░░░░░░░ 9%  (Shell, PHP, CSS, SQL, etc.)
+```
+
+#### **🔧 Contribution Distribution**
+| **Area** | **Porcentaje** | **Detalle** |
+| :--- | :---: | :--- |
+| **Backend Development** | 42% | APIs, Databases, Microservices, Authentication |
+| **Frontend Development** | 28% | React, UI/UX, Real-time Components |
+| **Infrastructure & DevOps** | 15% | Docker, CI/CD, Deployment, Cloud Optimization |
+| **Database Architecture** | 10% | PostgreSQL, MongoDB, Schema Design, RLS |
+| **Security & Cryptography** | 5% | Auth Systems, PGP, RLS Implementation |
 
 ---
 
