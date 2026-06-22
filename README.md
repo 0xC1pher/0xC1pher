@@ -1,4 +1,4 @@
-### 👋 Hello, earthlings. I’m **0xC1pher** (formerly **0x4171341**)
+### 👋 Hello, earthlings. I'm **0xC1pher** (formerly **0x4171341**)
 
 **Senior Backend Developer | Technical Founder** 16 years of experience building scalable ecosystems. Currently leading the development of specialized solutions for HealthTech and FinTech.
 
@@ -10,15 +10,22 @@
   </a>
   <a href="https://venpos-dev.up.railway.app" target="_blank">
     <img src="https://img.shields.io/badge/VenPos-Dev_Instance-003366?style=for-the-badge&logo=railway&logoColor=white" alt="VenPos Dev" />
-</p>
-  <a href="skyposve.duckdns.org" target="_blank">
+  </a>
+  <a href="https://skyposve.duckdns.org" target="_blank">
     <img src="https://img.shields.io/badge/SkyPos-Dev_Instance-003366?style=for-the-badge&logo=coolify&logoColor=white" alt="SkyPos" />
   </a>
+  <a href="https://www.bryemma.com" target="_blank">
+    <img src="https://img.shields.io/badge/BryEmma-Website-003366?style=for-the-badge&logo=react&logoColor=white" alt="BryEmma" />
+  </a>
+  <a href="https://merkafacil-app-production.up.railway.app/" target="_blank">
+    <img src="https://img.shields.io/badge/MerkaFacil-E--Commerce-003366?style=for-the-badge&logo=railway&logoColor=white" alt="MerkaFacil" />
+  </a>
+</p>
 
 ### 📊 **Core Engineering Metrics**
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true" alt="Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_count=8" alt="Top Langs" />
+  <img src="https://github-readme-stats.vercel.app/api?username=0xC1pher&show_icons=true&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&count_private=true[...]
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xC1pher&layout=compact&theme=transparent&title_color=003366&icon_color=003366&text_color=24292e&border_color=e1e4e8&langs_co[...]
 </p>
 
 ### 📁 **Project Ecosystem**
@@ -27,6 +34,8 @@
 | 🏥 **HealthTech** | [**Yari-Medic**](https://yarimedic.io) | Python, Django, EMR Systems |
 | 💳 **POS & E-commerce** | [**VenPos**](https://venpos-dev.up.railway.app) | React, TypeScript, QR Payments |
 | 💳 **POS & B2B** | [**SkyPos**](skyposve.duckdns.org) | Flutter, QR, Laravel |
+| 🚗 **Ride Sharing & B2B** | [**BryEmma**](https://www.bryemma.com) | React 18, Supabase, PostgreSQL, RLS, PWA |
+| 📦 **E-commerce Importación** | [**MerkaFacil**](https://merkafacil-app-production.up.railway.app/) | React 18, Node.js, Express, PostgreSQL 15, Redis 7, Railway |
 | 🤖 **AI & ML** | **Chatbot-GIA** | NLP, YOLO, Audio Analysis |
 | ⛓️ **Blockchain** | **CryptoVaca** | Solidity, DeFi, Smart Contracts |
 | 🛡️ **Security** | **CyberThrone** | Cybersecurity Tools, PGP, Audit |
@@ -44,10 +53,15 @@
 ![Solidity](https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
 #### **Frontend & Ops**
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Arch Linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)
 
