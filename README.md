@@ -42,13 +42,22 @@
 
 ---
 
-### 📈 **Technology Stack Analysis**
+### 📈 **Global GitHub Statistics**
 
-#### **📊 Top Technologies by Projects**
+#### **📊 Contribution Overview**
+| **Metric** | **Value** |
+| :--- | :---: |
+| **Total Repositories** | 60+ |
+| **Total Pull Requests** | **118** |
+| **Total Issues** | **112** |
+| **Total Languages Used** | 17+ |
+| **Top Project** | whatsapp-api (36★, 11 forks) |
+
+#### **🏆 Top Technologies by Projects**
 | **Technology** | **# Proyectos** | **Uso Principal** |
 | :--- | :---: | :--- |
 | **React** | 5 | Frontend (VenPos, BryEmma, MerkaFacil, Chat UI, Flows) |
-| **Python** | 8 | Backend, AI/ML, Automation (Yari-Medic, Chatbot-GIA, etc.) |
+| **Python** | 15+ | Backend, AI/ML, Automation (Yari-Medic, Chatbot-GIA, etc.) |
 | **Node.js/Express** | 4 | Backend APIs (MerkaFacil, Bot WhatsApp, Web Services) |
 | **PostgreSQL** | 6 | Primary Database (BryEmma, MerkaFacil, Yari-Medic, etc.) |
 | **Elixir/Phoenix** | 5 | Scalable Backend (POS System, Restaurant Manager, Payments) |
@@ -57,15 +66,18 @@
 | **GraphQL** | 3 | API Layer (MerkaFacil, Flows, Chatbot) |
 | **Docker** | 12+ | Infrastructure & Deployment (All Projects) |
 | **Redis** | 3 | Caching & Real-time (MerkaFacil, Chat Services) |
+| **Solidity** | 1 | Smart Contracts (CryptoVaca) |
+| **Go** | 1 | High-Performance APIs (whatsapp-api - 36★) |
 
 #### **💻 Language Distribution**
 ```
-Python       ████████░░ 28% (800+ files, AI/ML/Backend focus)
-JavaScript   ███████░░░ 22% (600+ files, Frontend/Node.js)
-TypeScript   ██████░░░░ 18% (450+ files, Type-safe projects)
-Elixir       █████░░░░░ 15% (350+ files, Scalable systems)
-Solidity     ███░░░░░░░ 8%  (Smart Contracts/Blockchain)
-Other        ██░░░░░░░░ 9%  (Shell, PHP, CSS, SQL, etc.)
+Python       ████████░░ 28% (15+ repos, AI/ML/Backend focus)
+JavaScript   ███████░░░ 22% (10+ repos, Frontend/Node.js)
+TypeScript   ██████░░░░ 18% (5+ repos, Type-safe projects)
+Elixir       █████░░░░░ 15% (5+ repos, Scalable systems)
+Shell        ███░░░░░░░ 8%  (DevOps/Automation)
+Solidity     ██░░░░░░░░ 5%  (Smart Contracts/Blockchain)
+Other        ██░░░░░░░░ 4%  (Java, Go, C, CSS, SQL, etc.)
 ```
 
 #### **🔧 Contribution Distribution**
@@ -76,6 +88,21 @@ Other        ██░░░░░░░░ 9%  (Shell, PHP, CSS, SQL, etc.)
 | **Infrastructure & DevOps** | 15% | Docker, CI/CD, Deployment, Cloud Optimization |
 | **Database Architecture** | 10% | PostgreSQL, MongoDB, Schema Design, RLS |
 | **Security & Cryptography** | 5% | Auth Systems, PGP, RLS Implementation |
+
+#### **⭐ Most Popular Projects**
+| **Project** | **Stars** | **Forks** | **Language** | **Category** |
+| :--- | :---: | :---: | :--- | :--- |
+| **whatsapp-api** | 36 ⭐ | 11 | Go | Communications API |
+| **audio_libros** | 5 ⭐ | 1 | Python | AI/Audio |
+| **API-Geolocalizacion-telefonos-moviles** | 4 ⭐ | 0 | Python | Geolocation |
+| **MedicMind** | 2 ⭐ | 1 | JavaScript | HealthTech |
+| **Loterias-ethereum** | 2 ⭐ | 0 | Solidity | Blockchain |
+
+#### **🚀 Project Status Summary**
+- **Completed & Deployed**: 8 major projects (Yari-Medic, VenPos, SkyPos, BryEmma, MerkaFacil, etc.)
+- **Active Development**: 12+ projects with recent commits
+- **Experimental/Archived**: 40+ utility and learning projects
+- **Total Lines of Code**: 500K+ across all repos
 
 ---
 
@@ -105,7 +132,7 @@ Other        ██░░░░░░░░ 9%  (Shell, PHP, CSS, SQL, etc.)
 ---
 
 ### 📈 **Detailed Activity Report**
-Análisis profundo de mis **113 PRs**, **31 Issues** y timeline de desarrollo:
+Análisis profundo de mis **118 PRs**, **112 Issues** y timeline de desarrollo:
 
 👉 **[CONSULTAR GITHUB_STATISTICS_0xC1pher.md](https://github.com/0xC1pher/0xC1pher/blob/main/GITHUB_STATISTICS_0xC1pher.md)**
 
